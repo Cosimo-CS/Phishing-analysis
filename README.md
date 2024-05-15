@@ -29,9 +29,9 @@ Here are some general steps you can take to scan an .eml file:
 
 ---------------------------------------------------------------------
 
-## **1.** Opening mails
+## **1.** Opening mails 
 
-- email_1
+- email_1 (Issue with the display of this content)
 
 ![alt text](/img/mail1.png)
 
@@ -50,3 +50,30 @@ Here are some general steps you can take to scan an .eml file:
 - email_5
 
 ![alt text](/img/mail5.png)
+
+
+## **2.** Mails reports
+
+- email_1
+
+- What is the email's timestamp?
+
+Monday 20/03/23 - 16:57
+
+- Who is the email from?
+
+Paypal
+
+- What is his email address?
+
+Service@paypal.be
+
+- What email address will receive a reply to this email?
+
+
+
+- What brand was this email tailored to impersonate?
+- What is the originating IP? Defang the IP address. 
+- What do you think will be a domain of interest? Defang the domain.
+- What is the shortened URL? Defang the URL.
+- Do you think this is a phishing email?
