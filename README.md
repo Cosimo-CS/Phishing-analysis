@@ -211,7 +211,7 @@ babakingsouthmichael@gmail[.]com
 
 - What email address will receive a reply to this email?
 
-imorourafiatou0@gmail.com
+imorourafiatou0@gmail[.]com
 
 - What brand was this email tailored to impersonate?
 
@@ -239,3 +239,49 @@ Yes, it seems that is a phishing email because:
 ![alt text](/img/mail4-headers.png)
  
 - In "Reply-To" there is another mail address provided.
+
+### Email 5
+
+- What is the email's timestamp?
+
+11:42 am, Aug 27th 2022
+
+- Who is the email from?
+
+Ariana
+
+- What is his email address?
+
+newsmail@app9l[.]serenitepure[.]fr
+
+- What email address will receive a reply to this email?
+
+news@aichakandisha[.]com
+
+- What brand was this email tailored to impersonate?
+
+WhatsApp/Tinder
+  
+- What is the originating IP? Defang the IP address.
+
+51[.]83[.]34[.]109
+
+- What do you think will be a domain of interest? Defang the domain.
+
+secure-netcloud[.]com?a=71&c=76&s1=dadaa&email=phishing@pot[.]org
+
+- What is the shortened URL? Defang the URL.
+
+secure-netcloud[.]com
+
+- Do you think this is a phishing email?
+
+Yes, it seems that is a phishing email because:
+
+- In the "Security" tab the SPF have a warning "Overly permissive SPF policy - arnhemophthalmics[.]com and there is none DKIM & DMARC results.
+- In "Headers" tab you can see that the "From" have inconsistent display-name.  In addition of that you can also notice that the "Reply-To" have an inconsistent email address detected. (inconsistent with the 'From' email address newsmail@app9l[.]serenitepure[.]fr)
+- The 'Return-Path' domain arnhemophthalmics[.]com is inconsistent with the 'From' domain app9l[.]serenitepure[.]fr.
+
+![alt text](/img/mail5-virustotal.png)
+ 
+
