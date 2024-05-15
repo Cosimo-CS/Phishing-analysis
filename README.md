@@ -31,7 +31,7 @@ Here are some general steps you can take to scan an .eml file:
 
 ## **1.** Opening mails 
 
-- email_1 (Issue with the display of this content)
+- email_1 
 
 ![alt text](/img/mail1.png)
 
@@ -53,6 +53,10 @@ Here are some general steps you can take to scan an .eml file:
 
 
 ## **2.** Mails reports
+
+For this exercice I have used:
+
+- https://app.phishtool.com/
 
 - email_1
 
