@@ -33,6 +33,20 @@ Here are some general steps you can take to scan an .eml file:
 
 - email_1
 
-![alt text](/img/email1.png)
+![alt text](/img/mail1.png)
 
+- email_2
 
+![alt text](/img/mail2.png)
+
+- email_3
+
+![alt text](/img/mail3.png)
+
+- email_4
+
+![alt text](/img/mail4.png)
+
+- email_5
+
+![alt text](/img/mail5.png)
