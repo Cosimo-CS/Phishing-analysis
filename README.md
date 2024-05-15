@@ -70,14 +70,28 @@ Paypal
 
 - What is his email address?
 
-Service@paypal.be
+service@paypal.be
 
 - What email address will receive a reply to this email?
 
-
+service@paypal.be
 
 - What brand was this email tailored to impersonate?
-- What is the originating IP? Defang the IP address. 
+
+Paypal/Spotify
+  
+- What is the originating IP? Defang the IP address.
+
+66[.]211[.]170[.]87
+
 - What do you think will be a domain of interest? Defang the domain.
+
+www[.]paypal[.]com/cgp/app-redirect
+
 - What is the shortened URL? Defang the URL.
+
+www[.]paypal[.]com
+
 - Do you think this is a phishing email?
+
+No, the SPF and DMARC have passed the security test but the DKIM is neutral.  Which bring me to make a deeper analysis of this email but I don't see nothing suspicious.
