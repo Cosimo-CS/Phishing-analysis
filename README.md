@@ -72,11 +72,11 @@ Paypal
 
 - What is his email address?
 
-service@paypal.be
+service@paypal[.]be
 
 - What email address will receive a reply to this email?
 
-service@paypal.be
+service@paypal[.]be
 
 - What brand was this email tailored to impersonate?
 
@@ -114,15 +114,15 @@ After analyzing the following ip address : 66.211.170.87 you can clearly see tha
 
 - Who is the email from?
 
-stainless@midnightmagicevents.com
+stainless@midnightmagicevents[.]com
 
 - What is his email address?
 
-stainless@midnightmagicevents.com
+stainless@midnightmagicevents[.]com
 
 - What email address will receive a reply to this email?
 
-stainless@midnightmagicevents.com
+stainless@midnightmagicevents[.]com
 
 - What brand was this email tailored to impersonate?
 
@@ -159,11 +159,11 @@ Yes, it seems that is a phishing email because:
 
 - Who is the email from?
 
-gq@80-78-255-128.cloudvps.regruhosting.ru
+gq@80-78-255-128[.]cloudvps[.]regruhosting[.]ru
 
 - What is his email address?
 
-gq@80-78-255-128.cloudvps.regruhosting.ru
+gq@80-78-255-128[.]cloudvps[.]regruhosting[.]ru
 
 - What email address will receive a reply to this email?
 
@@ -203,11 +203,11 @@ Yes, it seems that is a phishing email because:
 
 - Who is the email from?
 
-babakingsouthmichael@gmail.com
+babakingsouthmichael@gmail[.]com
 
 - What is his email address?
 
-babakingsouthmichael@gmail.com
+babakingsouthmichael@gmail[.]com
 
 - What email address will receive a reply to this email?
 
