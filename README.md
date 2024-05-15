@@ -126,22 +126,116 @@ stainless@midnightmagicevents.com
 
 - What brand was this email tailored to impersonate?
 
-Paypal/Spotify
+Trust Wallet
   
 - What is the originating IP? Defang the IP address.
 
-66[.]211[.]170[.]87
+85[.]209[.]134[.]107
 
 - What do you think will be a domain of interest? Defang the domain.
 
-www[.]paypal[.]com/cgp/app-redirect
+climovil[.]com
 
 - What is the shortened URL? Defang the URL.
 
-www[.]paypal[.]com
+midnightmagicevents[.]com
 
 - Do you think this is a phishing email?
 
-No, the SPF and DMARC have passed the security test but the DKIM is neutral.  Which bring me to make a deeper analysis of this email but I don't see nothing suspicious.
+Yes, it seems that is a phishing email because:
 
+- In the "Security" tab the SPF and DMARC have no results.
+- DKIM signature is neutral.
+- In "Headers" tab you can see that the "From" have inconsistent display-name.
+- In "Messages URLs" tab the virustotal detected the url climovil[.]com as malicious.
 
+![alt text](/img/mail2-virustotal.png)
+
+### Email 3
+
+- What is the email's timestamp?
+
+03:31 pm, Mar 26th 2023
+
+- Who is the email from?
+
+gq@80-78-255-128.cloudvps.regruhosting.ru
+
+- What is his email address?
+
+gq@80-78-255-128.cloudvps.regruhosting.ru
+
+- What email address will receive a reply to this email?
+
+None
+
+- What brand was this email tailored to impersonate?
+
+Tinder
+  
+- What is the originating IP? Defang the IP address.
+
+80[.]78[.]255[.]128
+
+- What do you think will be a domain of interest? Defang the domain.
+
+blog[.]tulingxueyuan[.]cn/contradictedqm[.]php
+
+- What is the shortened URL? Defang the URL.
+
+blog[.]tulingxueyuan[.]cn
+
+- Do you think this is a phishing email?
+
+Yes, it seems that is a phishing email because:
+
+- In the "Security" tab the SPF, DKIM and DMARC have no results.
+- In "Headers" tab you can see that the "From" have inconsistent display-name.
+- In "Messages URLs" tab the virustotal detected the url climovil[.]com as malicious.
+
+![alt text](/img/mail3-virustotal.png)
+
+### Email 4
+
+- What is the email's timestamp?
+
+12:44 pm, Mar 3rd 2023
+
+- Who is the email from?
+
+babakingsouthmichael@gmail.com
+
+- What is his email address?
+
+babakingsouthmichael@gmail.com
+
+- What email address will receive a reply to this email?
+
+imorourafiatou0@gmail.com
+
+- What brand was this email tailored to impersonate?
+
+United Nations Special Representative
+  
+- What is the originating IP? Defang the IP address.
+
+209[.]85[.]220[.]41
+
+- What do you think will be a domain of interest? Defang the domain.
+
+None
+
+- What is the shortened URL? Defang the URL.
+
+None
+
+- Do you think this is a phishing email?
+
+Yes, it seems that is a phishing email because:
+
+- In the "Security" tab the SPF and DMARC have passed the security test but the DKIM is neutral
+- In "Headers" tab you can see that the "From" have inconsistent display-name.  In addition of that you can also notice that the "To" have a recipient email address detected.
+
+![alt text](/img/mail4-headers.png)
+ 
+- In "Reply-To" there is another mail address provided.
