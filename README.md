@@ -29,5 +29,10 @@ Here are some general steps you can take to scan an .eml file:
 
 ---------------------------------------------------------------------
 
+## **1.** Opening mails
+
+- email_1
+
+![alt text](/img/email1.png)
 
 
