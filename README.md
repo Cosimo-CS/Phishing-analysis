@@ -58,6 +58,8 @@ For this exercice I have used:
 
 - https://app.phishtool.com/
 
+![alt text](/img/mail1-phishtool.png)
+
  ### email_1
 
 - What is the email's timestamp?
@@ -95,3 +97,51 @@ www[.]paypal[.]com
 - Do you think this is a phishing email?
 
 No, the SPF and DMARC have passed the security test but the DKIM is neutral.  Which bring me to make a deeper analysis of this email but I don't see nothing suspicious.
+
+#### Tools used for deeper investigation
+
+- https://talosintelligence.com/
+
+After analyzing the following ip address : 66.211.170.87 you can clearly see that is official from Paypal.
+
+![alt text](/img/talosintelligence.png)
+
+### Email 2
+
+- What is the email's timestamp?
+
+09:56 am, Dec 12th 2022
+
+- Who is the email from?
+
+stainless@midnightmagicevents.com
+
+- What is his email address?
+
+stainless@midnightmagicevents.com
+
+- What email address will receive a reply to this email?
+
+stainless@midnightmagicevents.com
+
+- What brand was this email tailored to impersonate?
+
+Paypal/Spotify
+  
+- What is the originating IP? Defang the IP address.
+
+66[.]211[.]170[.]87
+
+- What do you think will be a domain of interest? Defang the domain.
+
+www[.]paypal[.]com/cgp/app-redirect
+
+- What is the shortened URL? Defang the URL.
+
+www[.]paypal[.]com
+
+- Do you think this is a phishing email?
+
+No, the SPF and DMARC have passed the security test but the DKIM is neutral.  Which bring me to make a deeper analysis of this email but I don't see nothing suspicious.
+
+
